@@ -1,0 +1,10 @@
+{
+  "catalogs": [
+    {
+      "url": "https://landscape.test.blm.gov/geoportal/rest/find/document",
+      "name": "BLM Landscape Approach Data Portal"
+    }
+  ],
+  "recordsPerPage": "10",
+  "showAllAddedLayers": true
+}
